@@ -1,0 +1,21 @@
+h1{
+    color: cyan;
+}
+
+.green{
+    color:darkgreen;
+
+
+}
+.red{
+    color: red;
+}
+#gold{
+    background-color: gold;
+}
+div >p{
+    background-color: rgb(176, 188, 14);
+}
+p{
+    background-color: aquamarine;
+}
