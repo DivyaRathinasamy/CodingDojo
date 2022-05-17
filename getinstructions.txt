@@ -1,0 +1,6 @@
+git init(1 time)
+git remote add origin (link)(1 time)
+git add. or //filename
+git branch-M main(M-names the branch)(1 time)
+git commit-m "...."
+git push origin main
